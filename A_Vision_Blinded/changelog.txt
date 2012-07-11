@@ -1,0 +1,16 @@
+Changes made after LemonTea abandoned this campaign
+
+
+version 0.5.2
+-------------
+
+Made it so that every unit has its own ID. So that after a saveload every unit is really on the map. Bug reported by taptap.
+
+
+version 0.6.0
+-------------
+
+	"06_Emerging_from_the_Depths":
+Changed the map, made it so that the player can cross the tunnels in 40 turns instead of 80 like it was before.
+Animated the wall-breakthrough's.
+Added Dwarvish Scouts and Dwarvish Guardsman to the enemies recruitlist.
