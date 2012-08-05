@@ -14,3 +14,11 @@ version 0.6.0
 Changed the map, made it so that the player can cross the tunnels in 40 turns instead of 80 like it was before.
 Animated the wall-breakthrough's.
 Added Dwarvish Scouts and Dwarvish Guardsman to the enemies recruitlist.
+
+
+version 0.6.1
+-------------
+
+	"13_For_Auld_Lang_Syne"
+Resized the map, so the player can reach the Wose a bit faster.
+Changed the AI, so the Wose leader gets a bit protection.
