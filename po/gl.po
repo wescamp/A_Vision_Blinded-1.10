@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_Vision_Blinded 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-05 16:06-0400\n"
+"POT-Creation-Date: 2012-08-26 03:32+0200\n"
 "PO-Revision-Date: 2012-05-11 22:47-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -180,7 +180,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:226
 #: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:210
 #: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:415
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1278
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1279
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:290
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:371
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:416
@@ -204,7 +204,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:230
 #: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:214
 #: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:419
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1282
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1283
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:294
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:375
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:420
@@ -227,7 +227,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:238
 #: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:226
 #: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:435
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1298
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1299
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:306
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:387
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:432
@@ -236,25 +236,25 @@ msgstr ""
 
 #. [unit]: type=Elvish Druid, id=Alvelyn
 #. [unit]: type=Elvish Shyde, id=Alvelyn
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:158
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:173
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:159
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:174
 msgid "Alvelyn"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:210
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:211
 msgid ""
 "So, the orcs have reached our outpost. I never thought they'd come, since "
 "all reports so far are from the north."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:214
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:215
 msgid "No matter, for they are few. To arms! We will crush those foul beasts!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:218
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:219
 msgid ""
 "Even so, be careful, especially at night. Our forces are just as few, with "
 "most having been moved up north to deal with the orcs there. We can't lose "
@@ -262,12 +262,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:222
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:223
 msgid "Ha! They'll be sent scattering in a few moments!"
 msgstr ""
 
 #. [message]: speaker=Kul'Vrushnaq
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:226
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:227
 msgid ""
 "Oh, so there are still tree-shaggers here is it? I thought all of you "
 "weaklings are held up fighting our northern hordes! Bah, prepare for your "
@@ -275,87 +275,87 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:230
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:231
 msgid ""
 "Odd, that orc seems to have more brains than just running into reckless "
 "battle..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:254
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:255
 msgid ""
 "Gah... ugh... You may think you've won, but the rest of our hordes will "
 "finish you all! You're all doomed, tree-shaggers! Uck..."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:258
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:259
 msgid ""
 "Hmm... they seem to have cut a path from the north, that must be where this "
 "orc came from."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:262
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:263
 msgid "March north! Let's regain as much territory as we can."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:276
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:687
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:333
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:584
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1151
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:527
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:661
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1320
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:896
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:737
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:407
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:531
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1380
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:277
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:688
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:334
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:585
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1152
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:528
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:662
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1321
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:897
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:738
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:408
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:532
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1381
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:988
 msgid "I have failed my duty..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:289
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:713
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:346
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:597
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1164
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:540
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:674
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1333
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:909
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:750
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:420
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:544
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1393
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:290
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:714
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:347
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:598
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1165
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:541
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:675
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1334
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:910
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:751
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:421
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:545
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1394
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1001
 msgid "You may have defeated me, but our forests abide forever!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:293
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:717
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:350
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:601
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1168
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:544
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:678
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1337
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:913
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:754
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:424
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:548
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1397
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:294
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:718
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:351
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:602
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1169
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:545
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:679
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1338
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:914
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:755
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:425
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:549
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1398
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1005
 msgid "Alvs! Nooo!!"
 msgstr ""
 
 #. [message]: speaker=Kul'Vrushnaq
-#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:303
+#: A_Vision_Blinded/scenarios/01_Skirmish.cfg:304
 msgid "Haha! Another horde is approaching, you are all doomed!"
 msgstr ""
 
@@ -547,17 +547,17 @@ msgid "Defeat the enemy leader to the north"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:661
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:662
 msgid "Gah..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:665
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:666
 msgid "Hmph. He wasn't so tough."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:669
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:670
 msgid ""
 "The trail soon turns west, and it's beginning to sleet. Snowfall has already "
 "begun to the north. If we, a small band of elves, leave the forest alone, "
@@ -565,26 +565,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:673
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:674
 msgid ""
 "Don't worry. If we don't find anything in three days we'll turn back and "
 "warn the others. Now follow the path and march west!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:700
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:363
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:614
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1181
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:557
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:691
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1350
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:701
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:364
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:615
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1182
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:558
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:692
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1351
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1018
 msgid "I die, but with honour. Avenge me!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:727
+#: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:728
 msgid "The sound of orcish wardrums all over the mountains! We're surrounded!"
 msgstr ""
 
@@ -609,7 +609,7 @@ msgid "Defeat both enemy leaders"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:198
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:199
 msgid ""
 "The path wound its way at the foot of many a snowy mountain, but the elves "
 "had no chance to marvel at its majesty, for it was but a constant reminder "
@@ -617,7 +617,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:202
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:203
 msgid ""
 "This is quite a large orcish camp. It must be the orcish headquarters for a "
 "least a part of its hordes. If we can capture its command tent it can surely "
@@ -625,41 +625,41 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kul'Kraterusq
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:206
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:207
 msgid ""
 "So, a band of elves managed to break through while most of my hordes are "
 "away giving death to the tree-shaggers. Ha, destroy them!"
 msgstr ""
 
 #. [message]: speaker=Kul'Gruln
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:210
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:211
 msgid "Yes sovereign!"
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:214
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:215
 msgid "Battle formations!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:236
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:237
 msgid ""
 "Hmm... We haven't seen any of the trolls that tend to follow the orcs in "
 "their attacks."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:247
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:248
 msgid "I fall! Send a... ugh..."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:255
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:256
 msgid "Search his command post! Oh, what's this?"
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:259
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:260
 msgid ""
 "A map! I've seen orcish maps before, crudely drawn with a cross indicating "
 "where to attack. This one has remarkably accurate geographical detail, with "
@@ -668,14 +668,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:263
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:264
 msgid ""
 "This map must be taken to the High Council, it would serve great help to our "
 "defence."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:267
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:268
 msgid ""
 "Hmm... there's an arrow here on the map I can't explain. It extends from the "
 "very southern edge of the map right into the heart of the forest. It seems "
@@ -683,7 +683,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:271
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:272
 msgid ""
 "The map is not all we found. That orc was carrying a sword of very fine "
 "manufacture, certainly not of orcish blacksmiths. We also found a pouch of "
@@ -691,14 +691,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:275
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:276
 msgid ""
 "Orcs are known to frequently attack human settlements. These are but fruits "
 "of their plunders."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:279
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:280
 msgid ""
 "I think not. If human settlements bear so much plunder, and still leave the "
 "orcs with a sizeable force, it would make little sense for them to come such "
@@ -706,14 +706,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:283
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:284
 msgid ""
 "Many centuries ago there was a human queen who hired orcs to attack our "
 "brethren in the southwest. We should keep that in mind."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:287
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:288
 msgid ""
 "I've heard the story, but apparently it was to root out a human pretender "
 "was it not? We have nothing here the humans could want, considering their "
@@ -721,26 +721,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lomeilof
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:302
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:303
 msgid ""
 "I come with a message from High Council! All elves are to immediately return "
 "to the forest to assist in its defence! But..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:306
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:307
 msgid "Let's go then! ... but what?"
 msgstr ""
 
 #. [message]: speaker=Lomeilof
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:310
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:311
 msgid ""
 "(puff) ... but... I rode right past an avalanche, now the road back in "
 "covered in thick impassable snow!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:314
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:315
 msgid ""
 "(pause) I'm afraid that leaves us with but one way to return... dwarven "
 "caverns to known to extend far across the world, and we find a way that "
@@ -748,12 +748,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:318
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:319
 msgid "(sigh)"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:373
+#: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:374
 msgid ""
 "It's too late, their hordes are closing in. Prepare for our final battle!"
 msgstr ""
@@ -779,29 +779,29 @@ msgid "Defeat the leaders of the dwarvish garrison"
 msgstr ""
 
 #. [unit]: type=Dwarvish Stalwart, id=Guard6
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:305
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:306
 msgid "Darffrel"
 msgstr ""
 
 #. [unit]: type=Dwarvish Steelclad, id=Guard7
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:318
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:319
 msgid "Derffrel"
 msgstr ""
 
 #. [unit]: type=Dwarvish Steelclad, id=Guard8
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:331
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:332
 msgid "Dyrffrel"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:346
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:347
 msgid ""
 "Alvelyn led the elves to a large mountain range not too far west. Dwarvish "
 "lands."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:350
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:351
 msgid ""
 "There is a cave mouth not far ahead. We haven't fought the dwarves for quite "
 "some time now, perhaps they will grant us temporary passage. Hopefully they "
@@ -809,34 +809,34 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Guard1
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:354
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:355
 msgid "Halt! Who goeth there?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:358
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:359
 msgid ""
 "Sirs, we are elves in need of returning to our land, and there is no other "
 "way but to take your cave passages. Let us through and we will not linger."
 msgstr ""
 
 #. [message]: speaker=Guard1
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:362
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:363
 msgid "These caves are not for tree-shagging elves! Now away with ye!"
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:366
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:367
 msgid "Do you look down on us from your minuscule statures? Insolence!"
 msgstr ""
 
 #. [message]: speaker=Guard1
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:370
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:371
 msgid "Ye tree-shaggers picking another fight? Yer got one!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:392
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:393
 msgid ""
 "Careful. Dwarves around these parts are known to eat poisonous mushrooms "
 "that drive them into an insane frenzy, where they would stop at nothing to "
@@ -844,24 +844,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:505
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:506
 msgid "I can hear some insane laughter echoing around the cave..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:519
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:520
 msgid ""
 "It is an old, spawling tree. On its trunk are the carved words 'LemonTea was "
 "here 1337YW'"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:524
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:525
 msgid "Quite odd. 1337YW is several centuries into the future."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:538
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:539
 msgid ""
 "A narrow entrance lies here. No commotion is heard from inside so there are "
 "presumably no dwarves. The cold wind causes an old cobweb to flap in "
@@ -869,24 +869,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:542
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:543
 msgid "An abandoned passageway, this could be very useful..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:553
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:554
 msgid ""
 "Filthy tree-shaggers! Ye won't make it far! Our main force is coming, "
 "prepare to feel our wrath!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:561
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:562
 msgid "The dwarves are dead, and the cave entrance lies open."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:565
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:566
 msgid ""
 "Now that the dwarves are hostile, we cannot just enter the main cave. Their "
 "numbers are so much greater than our own, and we'll be fighting on their "
@@ -894,14 +894,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:569
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:570
 msgid ""
 "I noticed a small opening in the south. It does not appear used. It would "
 "pose to be our only option in evading the freeze that is to soon come."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:625
+#: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:626
 msgid ""
 "A dwarvish army has arrived to defend the gate. We don't stand a chance..."
 msgstr ""
@@ -1100,7 +1100,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:234
 #: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:218
 #: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:423
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1286
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1287
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:302
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:383
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:428
@@ -1126,11 +1126,11 @@ msgid "Move Quoscelia to the Southern Exit"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:821
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:891
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:925
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:955
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1005
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:822
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:892
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:926
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:956
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1006
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:667
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:740
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:777
@@ -1140,25 +1140,25 @@ msgid "The wall here does not look strong."
 msgstr ""
 
 #. [unit]: type=Red Mage, id=Aethelred
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:835
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:836
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:691
 msgid "Aethelred"
 msgstr ""
 
 #. [message]: speaker=Aethelred
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:851
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:852
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:702
 msgid "Who..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:855
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:856
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:706
 msgid "The real question is, who are YOU, human?"
 msgstr ""
 
 #. [message]: speaker=Aethelred
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:859
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:860
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:710
 msgid ""
 "I am Aethelred, a mage, and this is my hermitage. Two days ago, I think "
@@ -1168,7 +1168,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:863
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:864
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:714
 msgid ""
 "Alright, human, you may come with us. (He looks powerful enough to be used "
@@ -1176,26 +1176,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:867
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:868
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:718
 msgid "Troll, can you break down the western exit this human speaks of?"
 msgstr ""
 
 #. [message]: speaker=Kruurg
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:871
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:872
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:722
 msgid "Wall too strong. Kruurg no break."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:875
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:876
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:726
 msgid "Sigh... looks like the southern exit is the only way."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:905
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:939
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:906
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:940
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:763
 msgid ""
 "This leads to a an abandoned path leading straight south. It should take us "
@@ -1203,37 +1203,37 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:988
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:989
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:800
 msgid "Bah! A nest of filthy bats!"
 msgstr ""
 
 #. [unit]: type=Thug, id=Nath
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1019
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1020
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:838
 msgid "Nath"
 msgstr ""
 
 #. [unit]: type=Thug, id=Tramsley
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1031
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1032
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:850
 msgid "Tramsley"
 msgstr ""
 
 #. [unit]: type=Thug, id=Fagin
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1043
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1044
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:862
 msgid "Fagin"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1058
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1059
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:873
 msgid "Identify yourselves, humans!"
 msgstr ""
 
 #. [message]: speaker=Nath
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1062
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1063
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:877
 msgid ""
 "I am Nath, and these two are my friends. Our little village was raided and "
@@ -1242,7 +1242,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1066
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1067
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:881
 msgid ""
 "You may join us against the dwarves. (these puny humans seem useful as "
@@ -1250,57 +1250,57 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1070
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1071
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:885
 msgid "(secretly) Seems there are human settlements nearby here..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1074
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1075
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:889
 msgid "(acknowledges Alvelyn)"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1078
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1079
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:893
 msgid "Do you humans know where the exit to the cave is?"
 msgstr ""
 
 #. [message]: speaker=Nath
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1082
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1083
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:897
 msgid "Yes, it's not far, though the path winds a bit to get to it."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1109
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1110
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:954
 msgid "You retrieve 200 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1133
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1134
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:973
 msgid "Finally, sunlight again. Now let's get out and get our bearings."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1194
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:570
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:704
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1363
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:926
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:767
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:437
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:561
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1410
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1195
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:571
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:705
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1364
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:927
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:768
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:438
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:562
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1411
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1031
 msgid "Urk..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1205
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1206
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1042
 msgid "By now the dwarves have surely called in an army! We are doomed!"
 msgstr ""
@@ -1326,7 +1326,7 @@ msgid "Destroy the undead leaders"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:402
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:403
 msgid ""
 "Soon after leaving the damp caverns and its stench, the elves were greeted "
 "with a scene whose damp is hundredfold and stench thousandfold. Not a single "
@@ -1334,36 +1334,36 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:406
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:407
 msgid "Uck... What is this?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:410
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:411
 msgid "This smell is unholy!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:414
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:415
 msgid ""
 "It seems this swamp is filled with rotting carcasses. I'll go take a look..."
 "ugh..."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:418
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:419
 msgid ""
 "A lot of them are bloated and decomposed beyond recognition, but it appears "
 "they are human corpses, filling the entire swamp."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:422
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:423
 msgid "Can you tell where we are exactly? Geographically?"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:426
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:427
 msgid ""
 "Swamp to the west, mountains to the north, plains to the south, it would "
 "appear this is the south-eastern tip of the Great Marshes. This used to be "
@@ -1373,7 +1373,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:430
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:431
 msgid ""
 "But over the past few decades Wesnoth had been in decline, their patrols had "
 "long left, and the undead may have returned. In fact, I feel their presence, "
@@ -1381,42 +1381,42 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:434
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:435
 msgid ""
 "Is is possible to avoid the area? This stench of this place makes it very "
 "difficult to fight."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:438
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:439
 msgid ""
 "No. We can walk away, but that would give them time to turn these cadavers "
 "into an army. We must kill their re-animators with all speed."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:466
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:467
 msgid "Two lurking dark figures emerge from the building."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:488
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:489
 msgid ""
 "The undead is gone. Now let's get out of this swamp, THEN discuss where next."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:492
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:493
 msgid "Hmm... I found something here..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:496
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:497
 msgid "Hmm?"
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:500
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:501
 msgid ""
 "A cart of corpses, all human. These ones are fresh, not decomposed as the "
 "ones in the swamp. Looks like they were slain in battle: some still have "
@@ -1424,22 +1424,22 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:504
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:505
 msgid "(inspects arrow) These are human arrows."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:508
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:509
 msgid "Okay okay... Let's get out of here first."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:512
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:513
 msgid "Let's."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:581
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:582
 msgid ""
 "They are raising the corpses in the swamp into an innumerable horde. Death "
 "is the least of our worries now..."
@@ -1506,82 +1506,82 @@ msgid "Move Quoscelia to the south of the River"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:301
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:302
 msgid ""
 "We are close to the Great River. The human kingdom lies to the south of us."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:305
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:306
 msgid ""
 "After entering, we should try to find out what is going on, weaken our "
 "enemies if we can, and rush back to our homeland if we're still alive."
 msgstr ""
 
 #. [message]: speaker=Kul'Grath
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:309
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:310
 msgid "Hey, I spy some people coming down the path at us!"
 msgstr ""
 
 #. [message]: speaker=Sir Trevick
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:313
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:314
 msgid "Our orders are to defend the path and kill any trespassers. To arms!"
 msgstr ""
 
 #. [message]: speaker=Lt. Silas
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:317
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:318
 msgid "Destroy them, they are enemies of the Age of Light!"
 msgstr ""
 
 #. [message]: speaker=Kul'Grath
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:321
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:322
 msgid "Huh? Enemies of what?"
 msgstr ""
 
 #. [message]: speaker=Lt. Silas
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:325
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:326
 msgid "Just kill them..."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:329
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:330
 msgid ""
 "My military experience says to avoid the hills. The thin streams of dust and "
 "smoke coming off them are not a good sign."
 msgstr ""
 
 #. [message]: speaker=Skaxisss
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:570
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:571
 msgid "Kssssssseeee!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:595
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:596
 msgid "Hey, there's someone hiding here!"
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:610
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:611
 msgid "Don't hurt me!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:614
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:615
 msgid "A mermaid! What are you doing so far up the river?"
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:618
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:619
 msgid "You won't kill me?"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:622
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:623
 msgid "Um, no."
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:626
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:627
 msgid ""
 "I belonged to a tribe who departed the open oceans long ago for a freshwater "
 "swamp upstream. A few months ago our village got raided and taken over by "
@@ -1590,26 +1590,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:630
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:631
 msgid ""
 "If you're not going to hurt me can I join you? I have nowhere else to go."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:634
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:635
 msgid "Sure, if you don't mind coming out of the water..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:646
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:647
 msgid ""
 "Now that we are in human lands, let us try to dig out some information..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:715
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1387
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:950
+#: A_Vision_Blinded/scenarios/08_Disobedience.cfg:716
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1388
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:951
 msgid "Human reinforcements have arrived, we're severely outnumbered!"
 msgstr ""
 
@@ -1640,7 +1640,7 @@ msgid "Death of Dedalus"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:206
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:207
 msgid ""
 "The elves wandered around the outskirts of Wesnoth. The few peasants who "
 "answered their queries spoke only briefly of high taxes and conscription to "
@@ -1648,36 +1648,36 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:210
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:211
 msgid ""
 "This looks like a reasonably secluded area. We can probably camp here "
 "unnoticed by anyone who would care."
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:241
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:242
 msgid "Elves? Here? What be your business so far from your lands?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:245
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:246
 msgid "(thinking the human doesn't look like a soldier) Who be YOU, human?"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:249
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:250
 msgid ""
 "They call me an outlaw, because I refuse to pay my work and my gold for "
 "their war. But you still haven't answered my question."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:253
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:254
 msgid "Outlaw? How can we trust one such as you?"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:257
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:258
 msgid ""
 "You can trust me precisely because I am an outlaw, since the law can no "
 "longer be trusted in these dark times! But you still haven't answered MY "
@@ -1685,24 +1685,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:261
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:262
 msgid ""
 "Very well. We want information on any suspicious human activities as of "
 "late. What of this war you speak of?"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:265
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:266
 msgid "(whisper) Remember the cart of corpses at the swamp?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:269
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:270
 msgid "(whisper) Yes, that's why I'm asking."
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:273
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:274
 msgid ""
 "Ahem... well you've asked the right man. Operating outside the law, my scout "
 "footpads gather quite a wide range of information, mainly for our own "
@@ -1710,12 +1710,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:277
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:278
 msgid "Such as?"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:281
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:282
 msgid ""
 "How we get information I can't tell you, but know this: the Treasurer of "
 "Wesnoth, Baron Malostartin, supposedly discovered a heinous plot by the "
@@ -1727,7 +1727,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:285
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:286
 msgid ""
 "Expectedly, troop movements on the eastern border are frequent, what is "
 "puzzling is quite a bit of movement to the northern border. We often see "
@@ -1737,7 +1737,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:289
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:290
 msgid ""
 "Some of us couldn't stand the choice between paying all we have for an "
 "obscure purpose and dying a pawn's death, so we banded together as brothers. "
@@ -1747,136 +1747,136 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Hostarl
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:293
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:294
 msgid ""
 "Search this country! The outlaws are active around these parts, destroy them "
 "in the name of the Kingdom!"
 msgstr ""
 
 #. [message]: speaker=Fantusio
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:297
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:298
 msgid "Yes my Lord, they will not evade the law this time!"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:301
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:302
 msgid ""
 "They're after us, but together we should be able to defeat their forces and "
 "quickly escape, I'll divulge more information to you later."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:306
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:307
 msgid "You can now recruit Footpads, Poachers and Thieves!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:405
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:591
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:776
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:961
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:406
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:592
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:777
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:962
 msgid "At dusk, reinforcements arrived to assist in arresting the outlaws."
 msgstr ""
 
 #. [unit]: type=Lancer, id=Oliver
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1151
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1152
 msgid "Oliver"
 msgstr ""
 
 #. [message]: speaker=Oliver
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1162
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1163
 msgid "Brother, you are back!"
 msgstr ""
 
 #. [message]: speaker=Fagin
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1166
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1167
 msgid ""
 "Yes, it's been a long time. Join us in our fight against the oppressors!"
 msgstr ""
 
 #. [message]: speaker=Oliver
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1170
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1171
 msgid "With pleasure! I've put up with them long enough!"
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1183
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1128
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1184
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1129
 msgid "Hey, there's something at the bottom of the lake here..."
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1187
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1132
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1188
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1133
 msgid "A chest of gold!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1199
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1144
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1200
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1145
 msgid "You retrieve 200 gold!"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1207
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1208
 msgid ""
 "The have been beaten back, but more will surely arrive soon. We should leave "
 "immediately."
 msgstr ""
 
 #. [message]: speaker=Scout
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1222
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1223
 msgid "I come with urgent news!"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1226
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1227
 msgid "Speak."
 msgstr ""
 
 #. [message]: speaker=Scout
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1230
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1231
 msgid "Malostartin is headed for Soradoc. We saw his convoy."
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1234
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1235
 msgid "That's not far from here! What does he want there?"
 msgstr ""
 
 #. [message]: speaker=Scout
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1238
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1239
 msgid ""
 "Unknown, though several other convoys are also headed in that direction."
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1242
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1243
 msgid "How many men do they have?"
 msgstr ""
 
 #. [message]: speaker=Scout
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1246
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1247
 msgid "Strangely few. It is as though he expects no danger."
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1250
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1251
 msgid "Odd... keep scouting for information!"
 msgstr ""
 
 #. [message]: speaker=Scout
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1254
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1255
 msgid "Yes!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1261
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1262
 msgid "Why is this important?"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1265
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1266
 msgid ""
 "We suspect Malostartin is up to something. For now our most plausible theory "
 "is that he wants to seize the throne, so he started the war to weaken the "
@@ -1884,7 +1884,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1269
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1270
 msgid ""
 "(whisper) Given what we know, I would think he has other plans. But let's "
 "play along with this human, we need his forces to serve as fodder against "
@@ -1892,19 +1892,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1273
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1274
 msgid "(whisper) Yes. Good idea."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1277
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1278
 msgid ""
 "Well, human, it would seem that you would want Malostartin killed for the "
 "good of your people. We would be glad to be of assistance."
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1281
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1282
 msgid ""
 "Excellent. We'll send scouts to see how strong his forces are, and if it's "
 "possible that we can defeat them, we'll attack and rid this land of the "
@@ -1912,29 +1912,29 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1285
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1286
 msgid "Alright, Dedalus. Diludyren?"
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1289
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1290
 msgid "Yes?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1293
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1294
 msgid "Lead a force and take the land north of Soradoc. Defend it well."
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1297
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1298
 msgid ""
 "Surely you jest! We need everything we have to throw at Malostartin if we "
 "are to attack him!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1301
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1302
 msgid ""
 "We need you to defend the land between Soradoc and the Great River so we may "
 "retreat if needed. It would be disastrous to be surrounded here. And, if "
@@ -1943,13 +1943,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1305
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1306
 msgid "I do not like this, but alright, I will do it. Best of luck to you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1376
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:939
+#: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1377
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:940
 msgid "Alas, I am slain!"
 msgstr ""
 
@@ -2047,18 +2047,18 @@ msgid "Defeat Baron Malostartin"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:316
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:317
 msgid "Ah, there they are, Malostartin & Co. They seem to be in discussion."
 msgstr ""
 
 #. [message]: speaker=Lord Stamford
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:320
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:321
 msgid ""
 "... I know, but the doubts are frequent, this would be the first time..."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:324
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:325
 msgid ""
 "If there was no first time there would be no existence, my dear friend. Our "
 "cause is just, and we must go through with it, lest we suffer the lashes of "
@@ -2066,14 +2066,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Stamford
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:328
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:329
 msgid ""
 "You can have no doubt about my understanding, but one cannot help at times "
 "be a little put back by something so universally condemned..."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:332
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:333
 msgid ""
 "The condemnation is but defined by mortal pettiness and superstitions, whose "
 "skulls are filled not with a free soul but chained by ignorance, hedonism, "
@@ -2082,14 +2082,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Stamford
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:336
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:337
 msgid ""
 "But mortality is nature's law, going against it would surely wreak more "
 "havoc than blessings."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:340
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:341
 msgid ""
 "Should necromancy be against nature, then whence come its existence? All "
 "creation is natural by its own definition, though not necessarily by "
@@ -2097,20 +2097,20 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Sir Remoire
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:344
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:345
 msgid ""
 "I too, had felt uneasy at our plans. But you've convinced me today, dear "
 "Mal, you've convinced me today!"
 msgstr ""
 
 #. [message]: speaker=Lt. Edantre
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:348
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:349
 msgid ""
 "I have to think about it further, but you've helped settle my mind a bit."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:352
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:353
 msgid ""
 "So what say you, Stamford? You have been my dearest companion all these "
 "years, and it would be the most outrageous misfortune should we have to part "
@@ -2118,80 +2118,80 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Stamford
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:356
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:357
 msgid ""
 "Sigh... I suppose there is no going back now, given the circumstances. You "
 "have my support and assistance, old friend."
 msgstr ""
 
 #. [message]: speaker=Lt. Edantre
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:360
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:361
 msgid "Hey! I just spotted some movement to the west!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:364
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:365
 msgid "Spies? Kill them!"
 msgstr ""
 
 #. [message]: speaker=Sir Remoire
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:368
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:369
 msgid "To arms, men! For the Age of Light!"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:372
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:373
 msgid "Our cover's blown! We must fight for our lives!"
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:376
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:377
 msgid ""
 "Here, take this. It's all the gold I have on me. Should I survive I can "
 "always get more gold, but should I die it matters not!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:388
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:389
 msgid "You receive 250 gold!"
 msgstr ""
 
 #. [message]: speaker=Litvius
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:499
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:500
 msgid "Sorry for my lateness, but I was too occupied by my studies."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:503
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:504
 msgid ""
 "Perfectly excusable, though right now we got a little problem you may wish "
 "to help us on..."
 msgstr ""
 
 #. [message]: speaker=Litvius
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:507
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:508
 msgid "Certainly. My colleagues should be right behind me."
 msgstr ""
 
 #. [message]: speaker=Litvius
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:515
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:516
 msgid "I can feel that my comrades are nigh. They will be teleporting in soon."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:523
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:524
 msgid "Ah, you are here to fight. Why do you fight, oh strangers?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:527
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:528
 msgid ""
 "We fight because you can surely be up to no good, you dirty human! We are "
 "here to vanquish evil!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:531
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:532
 msgid ""
 "And you, Madame Elf, are the leader of these soldiers? And where is this "
 "evil you speak of? How do you define evil? Is it simply anything that YOU "
@@ -2199,19 +2199,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:535
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:536
 msgid ""
 "Well human, I believe you yourself understand this: that you are evil, "
 "because of the destruction brought about by your plans!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:539
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:540
 msgid "My plans? Oh tell me about them!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:543
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:544
 msgid ""
 "We know you lied to start a war, so you may have many corpses to reanimate, "
 "and so you have an excuse to overtax the human peasants, so you may have "
@@ -2220,24 +2220,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:547
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:548
 msgid "(whisper) I never told you all that!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:551
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:552
 msgid "(whisper) Yes, we figured it out ourselves."
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:555
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:556
 msgid ""
 "You know more than I thought, but is that all you know? If it indeed is, I "
 "can't blame you for fighting me!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:559
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:560
 msgid ""
 "In fact, look at what you are fighting me with. Those swords and bows, are "
 "they not the same as they were when our ancestors first met yours? Why, in a "
@@ -2248,13 +2248,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:563
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:564
 msgid ""
 "How dare you un-people pass judgement down on us! Do you condescend, human?"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:567
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:568
 msgid ""
 "And that, my hostile friends, is why you do not doff those weapons. That, is "
 "why we humans refuse to doff ours, and why orcs will never cast theirs away "
@@ -2262,7 +2262,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:571
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:572
 msgid ""
 "For it is your nature, and the humans' nature, and the orcs' nature, to "
 "believe their respective selves as being somewhat superior. Our mortal "
@@ -2272,7 +2272,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:575
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:576
 msgid ""
 "When our spirits are free to roam the more abstract facets of creation, "
 "unencumbered by selfish desires, and boundaries set by ourselves as well as "
@@ -2282,7 +2282,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:579
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:580
 msgid ""
 "This is the Age of Light, and its dawn is breaking! A new era, of reason and "
 "enlightenment, is upon us! Join us now, elves, for in the end, we cannot "
@@ -2290,68 +2290,68 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:583
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:584
 msgid ""
 "He's just buying time waiting for reinforcements, kill him quick and don't "
 "listen to what he says!"
 msgstr ""
 
 #. [message]: id=Litvius
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:616
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:617
 msgid "Aha, they have arrived. Teleporting in now."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:684
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:685
 msgid "I am fallen! Continue without me, my friends!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:688
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:689
 msgid "Fear not, we will achieve our greater ends!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:704
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:747
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:790
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:705
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:748
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:791
 msgid "He has gold in his pouch, take it!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:716
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:759
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:802
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:717
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:760
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:803
 msgid "You retrieve 150 gold!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:727
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:728
 msgid "Forgive me old friend, for my early departure!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:731
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:732
 msgid "Stamford! This is indeed a grievous time, but we will fight on!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:770
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:771
 msgid "My life is ended, but my fight is not!"
 msgstr ""
 
 #. [message]: speaker=Baron Malostartin
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:774
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:775
 msgid "You speak the truth, you will return!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:813
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:814
 msgid "You have slain me, but not all of me is slain!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:818
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:819
 msgid ""
 "With a sudden burst of energy in his crippled body, Malostartin leapt into "
 "the nearby chasm. After what seemed like a long time, a thud resonated in "
@@ -2359,29 +2359,29 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:822
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:823
 msgid ""
 "There's nothing we can do here any more. Let us hurry back north across the "
 "River, where we will be safer from the marauding human armies."
 msgstr ""
 
 #. [unit]: type=Outlaw, id=Gurdry
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:829
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:830
 msgid "Gurdry"
 msgstr ""
 
 #. [message]: speaker=Gurdry
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:838
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:839
 msgid "I bear dire news from the north!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:842
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:843
 msgid "Speak, human."
 msgstr ""
 
 #. [message]: speaker=Gurdry
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:846
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:847
 msgid ""
 "The northern outpost you left has been overrun by the Wesnothian army. As "
 "far as I could tell no elves survived. I only live to tell this as I was "
@@ -2389,19 +2389,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:850
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:851
 msgid ""
 "Sigh... to think we saved him from the orcs only to have him killed by "
 "humans so far from home..."
 msgstr ""
 
 #. [unit]: type=Footpad, id=Scout
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:857
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:858
 msgid "Scout"
 msgstr ""
 
 #. [message]: speaker=Scout
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:866
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:867
 msgid ""
 "Urgent news! An army approaches from the west! They've set camp but looks "
 "like they'll continue marching soon, they seem to be bound for the Eastern "
@@ -2409,7 +2409,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:873
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:874
 msgid ""
 "We can't go north any more, and we are pressed from the west. We can't go "
 "south as that will take us deeper into human lands, looks like our only "
@@ -2418,7 +2418,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dedalus
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:877
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:878
 msgid ""
 "Alas, no. My age is catching up with me, and I cannot go on your long "
 "journey. Besides, with Malostartin dead, I feel my work here is done. You "
@@ -2427,7 +2427,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:881
+#: A_Vision_Blinded/scenarios/10_For_the_Checkmate.cfg:882
 msgid "In that case, human, farewell. Now let us march east with all speed!"
 msgstr ""
 
@@ -2472,7 +2472,7 @@ msgid "Defeat enemy leaders (BONUS)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:377
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:378
 msgid ""
 "The elves quickly forded the eastern river that separates Wesnoth from the "
 "Eastern Clan, rushing across the plains in the dead of the night. However, "
@@ -2480,68 +2480,68 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Sir Lostiel
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:381
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:382
 msgid ""
 "Ho! A force had slipped through during the night. How did you let them past "
 "you, Dregar?"
 msgstr ""
 
 #. [message]: speaker=Sir Dregar
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:385
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:386
 msgid ""
 "They must have crossed the river somehow at another point. No matter, for we "
 "will charge them all down!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:389
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:390
 msgid ""
 "This is bad, we are surrounded. We haven't harmed the Clan before, would "
 "diplomacy work?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:393
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:394
 msgid ""
 "Humans of the Clan, we seek only quick passage across your land. Let us "
 "through, and we will cross the Great River with haste."
 msgstr ""
 
 #. [message]: speaker=Kruurg
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:397
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:398
 msgid "Kruurg has idea. Kill human and they no hurt us."
 msgstr ""
 
 #. [message]: speaker=Sir Flavian
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:401
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:402
 msgid ""
 "Ho, what is this? Trolls among you! You bring monster filth into Clan land!"
 msgstr ""
 
 #. [message]: speaker=Sir Kramier
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:405
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:406
 msgid ""
 "The elves themselves are but monsters of the forest too, they have no "
 "business here, on our civilised territory!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:409
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:410
 msgid "Human scum! You will pay for this disrespect of your superiors!"
 msgstr ""
 
 #. [message]: speaker=Sir Lago
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:413
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:414
 msgid "Ho ho! Nothing like a good challenge to start the day! Kill them all!"
 msgstr ""
 
 #. [message]: speaker=Sir Lostiel
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:417
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:418
 msgid "To the death! CHARGE!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:421
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:422
 msgid ""
 "I very much doubt we can defeat them all, the Wesnothian army should be "
 "approaching from the west. We should wait until they arrive, surely the Clan "
@@ -2549,47 +2549,47 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:440
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:479
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:518
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:557
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:596
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:441
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:480
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:519
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:558
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:597
 msgid "You retrieve 100 gold!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:624
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:625
 msgid ""
 "Ha! The puny human scum falls once again, this will teach them to displease "
 "elves!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:628
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:629
 msgid "Let us quickly find a River crossing, there's no need to linger here."
 msgstr ""
 
 #. [message]: speaker=Sir Alistair
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:708
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:709
 msgid ""
 "Traitors of the East! Our main army approaches, prepare for your deaths!"
 msgstr ""
 
 #. [message]: role=grandknight
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:712
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:713
 msgid ""
 "Ho! Do you think you weaklings can defeat the might of the Clan? I accept "
 "your challenge, prepare for YOUR death, fool!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:717
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:718
 msgid ""
 "The Clan has turned its attention away from us, let us hurry out of here."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:722
+#: A_Vision_Blinded/scenarios/11_And_the_River_Ran_Red.cfg:723
 msgid ""
 "As the Wesnothian army fought the Clan, the elves slipped away in the "
 "commotion, while the river ran red behind them."
@@ -2627,14 +2627,14 @@ msgid "Defeat all enemy leaders"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:277
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:278
 msgid ""
 "The elves reached the northern edge of the Clan territory, reaching a swampy "
 "region of the Great River."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:281
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:282
 msgid ""
 "This is one of the few places in the Great River shallow enough to be "
 "forded. Though there is a rancorous smell floating on the chilling North "
@@ -2642,17 +2642,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:285
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:286
 msgid "This is my home! Oh how I wish to see saurian bones torn apart..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:289
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:290
 msgid "There may be darker enemies here as well. We must be careful."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:293
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:294
 msgid ""
 "And quick. The snow to the north approaches unstoppable. The winter is "
 "bearing down upon us, and we must quickly find refuge lest we be crushed "
@@ -2660,33 +2660,33 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:364
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:365
 msgid "A small band of merfolk approaches from the east!"
 msgstr ""
 
 #. [message]: speaker=Miranda
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:368
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:369
 msgid "So there were other survivors after all!"
 msgstr ""
 
 #. [message]: speaker=Njorius
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:372
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:373
 msgid "Forward! Let us bring death to the invaders who have taken out home!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:376
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:377
 msgid "It doesn't look like they're bound for us, that's good."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:384
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:385
 msgid ""
 "This section of the River is now clear of hostilities. Let us proceed north."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:388
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:389
 msgid ""
 "But look around us! It is but early winter, and we are only as far north as "
 "the Great River, yet we are girt by such heavy snow! The winter will only "
@@ -2695,12 +2695,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:392
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:393
 msgid "I... suppose. We will have to stay here, and hope for the best."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:447
+#: A_Vision_Blinded/scenarios/12_Second_Crossing.cfg:448
 msgid "The Clan armies approach from the south, we will surely be slaughtered!"
 msgstr ""
 
@@ -2758,14 +2758,14 @@ msgid "Death of the keep defender"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:261
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:262
 msgid ""
 "This area used to deep in the forest, but now it's all been flattened and "
 "defiled. Even now the orcs ahead of us are rallying!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:265
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:266
 msgid ""
 "Hmm... there are two elvish keeps here. The one to the east seems to have "
 "already been captured, but they're still laying siege to the other, though I "
@@ -2773,49 +2773,49 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:269
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:270
 msgid ""
 "Come then, there is no time to lose. We must liberate and restore the two "
 "keeps!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:424
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:425
 msgid "Guhhhhhhhh..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:429
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:430
 msgid "With a long dying cry, the Death Knight crumbled to the ground."
 msgstr ""
 
 #. [message]: speaker=A Fallen Friend
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:440
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:441
 msgid "Finally... free again..."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:444
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:445
 msgid "You seem familiar..."
 msgstr ""
 
 #. [message]: speaker=A Fallen Friend
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:448
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:449
 msgid "I am Diludyren... Remember me?"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:452
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:453
 msgid "So you are! I was suspecting I recognised you..."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:456
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:457
 msgid "I'm sorry we caused your death and unlife, please do not..."
 msgstr ""
 
 #. [message]: speaker=A Fallen Friend
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:460
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:461
 msgid ""
 "I blame you not, friends, but know this: Malostartin has risen, and is at "
 "this moment mobilising his destruction of this forest, so that the orcish "
@@ -2826,38 +2826,38 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=A Fallen Friend
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:464
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:465
 msgid ""
 "I must leave now, I wish not to linger. Farewell my friends and foes, for I "
 "am finally departed."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:471
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:472
 msgid "Farewell friend, may no-one disturb your rest again."
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:479
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:480
 msgid ""
 "Ahhhhhh... the pain around me... died down... finally... but more pain is "
 "coming... from elsewhere..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:483
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:484
 msgid "Who are you?"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:487
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:488
 msgid ""
 "(whisper) A wose. I have caught glimpses these a handful of times, though I "
 "have never seen one fight nor speak."
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:491
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:492
 msgid ""
 "Your companion have already answered most of your question, so I will say no "
 "more, you may call me by my name, Yressel-Ybreghyf. I sense you know of the "
@@ -2865,12 +2865,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:495
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:496
 msgid "How do you know?"
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:499
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:500
 msgid ""
 "Anyone who thinks of me, have their thoughts made known to me... I sense the "
 "invaders, despite their distance. I sense the constant throbbing pain, as "
@@ -2880,14 +2880,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:503
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:504
 msgid ""
 "Then we have not a moment to lose. We must hurry to the Heart of the Forest "
 "and assist in its defence!"
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:507
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:508
 msgid ""
 "I will come with you. Not because I hate the unwelcome guests, nor because I "
 "will always assist the hosts, but simply because I am compelled to defend "
@@ -2895,24 +2895,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:511
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:512
 msgid "Your assistance is much appreciated. Now let us make haste!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:516
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:517
 msgid ""
 "The mystical woses, the wardens of the natural balance, are now at your "
 "disposal!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:574
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:575
 msgid "The keep has raised an enemy flag. It is fallen!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:584
+#: A_Vision_Blinded/scenarios/13_For_Auld_Lang_Syne.cfg:585
 msgid ""
 "More orcish reinforcements have arrived, we don't stand a chance against "
 "their numbers!"
@@ -3003,13 +3003,13 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:427
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1290
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1291
 msgid "Death of Yressl-Ybreghyf"
 msgstr ""
 
 #. [objective]: condition=lose
 #: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:431
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1294
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1295
 msgid "Death of Elrwardremn"
 msgstr ""
 
@@ -3024,39 +3024,39 @@ msgstr ""
 #. [unit]: type=Elvish Shaman, id=Keeper7
 #. [unit]: type=Elvish Shaman, id=Keeper8
 #. [unit]: type=Elvish Shaman, id=Keeper9
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:485
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:497
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:520
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:532
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:544
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:556
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:568
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:580
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:592
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:604
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:616
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:486
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:498
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:521
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:533
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:545
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:557
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:569
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:581
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:593
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:605
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:617
 msgid "Keeper"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1007
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1008
 msgid "Your Lordship, we have arrived to assist in this battle."
 msgstr ""
 
 #. [message]: speaker=Elrwardremn
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1011
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1012
 msgid ""
 "I see you bring reinforcements, but I fear enemy numbers are too great. Even "
 "so, my oath and duty requires me to fight on until I no longer draw breath."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1015
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1016
 msgid "We may defeat them yet, for we know their leader."
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1019
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1020
 msgid ""
 "Yes. The one by whom all others are commanded by is on this very "
 "battlefield. I sense his presence, which is strong, though I cannot say "
@@ -3064,116 +3064,116 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elrwardremn
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1023
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1024
 msgid ""
 "Woses walk among you! If they fight for the forest, we may have hope yet, "
 "though I fear the battle is still against us."
 msgstr ""
 
 #. [message]: speaker=Mal'Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1027
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1028
 msgid ""
 "I thank you for your arrival, Aeygrunrid. It is good that more can see the "
 "Light than I anticipated."
 msgstr ""
 
 #. [message]: speaker=Marshal Aeygrunrid
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1031
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1032
 msgid ""
 "Having spent my entire life witnessing mindless slaughter, I only wish that "
 "it can stop, and there is no other way than this."
 msgstr ""
 
 #. [message]: speaker=Mal'Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1035
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1036
 msgid ""
 "Aye. You speak the truth, friend. To many, it would seem an unfortunate "
 "truth, but customs change."
 msgstr ""
 
 #. [message]: speaker=Kul'Kasproyk
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1039
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1040
 msgid "So, do we start killing the tree-shaggers yet?"
 msgstr ""
 
 #. [message]: speaker=Mal'Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1043
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1044
 msgid "Yes, warlord. It is time to advance."
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1047
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1048
 msgid ""
 "This one is indeed strong. Perhaps only the wardens of nature themselves can "
 "defeat this foe."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1058
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1092
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1059
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1093
 msgid "Fight on without me!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1062
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1096
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1063
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1097
 msgid "He's raising the fallen!"
 msgstr ""
 
 #. [unit]: type=Spectre, id=Spirit of Oefulardry
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1076
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1077
 msgid "Spirit of Oefulardry"
 msgstr ""
 
 #. [unit]: type=Spectre, id=Spirit of Estelantrolia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1110
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1111
 msgid "Spirit of Estelantrolia"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1157
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1158
 msgid "Found a chest in the lake here."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1169
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1170
 msgid "You retrieve 300 gold!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1180
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1181
 msgid "The abomination has been slain, and - "
 msgstr ""
 
 #. [unit]: type=Ancient Lich, id=Mal Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1186
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1187
 msgid "Mal Startin"
 msgstr ""
 
 #. [message]: speaker=Mal Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1196
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1197
 msgid "- and, he rises again!"
 msgstr ""
 
 #. [message]: speaker=Yressl-Ybreghyf
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1268
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1269
 msgid ""
 "As I had known. He cannot be slain with elvish blades nor elvish magic. Only "
 "the wardens of nature can destroy his spirit."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1274
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1275
 msgid "Kill Mal Startin with an ancient wose (Yressl-Ybreghyf acceptable)"
 msgstr ""
 
 #. [message]: speaker=Mal Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1314
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1315
 msgid "Ugh... what is this? And the Age of Light was within grasp..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1319
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1320
 msgid ""
 "The spawling guardian of nature collapsed, a sight sublime yet woeful. Its "
 "body slowly shattered, emitting a noise pitiable to behold, yet remained "
@@ -3182,37 +3182,37 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1340
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1341
 msgid "He had fallen, but not by a wose, he will surely rise again!"
 msgstr ""
 
 #. [unit]: type=Ancient Lich, id=Mal-Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1346
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1347
 msgid "Mal-Startin"
 msgstr ""
 
 #. [message]: speaker=Mal-Startin
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1356
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1357
 msgid "Ha ha ha..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1366
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1367
 msgid "He destroyed the Heart of the Forest, all is lost!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1423
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1424
 msgid "No, without the woses we cannot hope to destroy our foes!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1436
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1437
 msgid "Without him to rally our forces, all is lost!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1446
+#: A_Vision_Blinded/scenarios/14_Natures_Fury.cfg:1447
 msgid ""
 "More human and orcish reinforcements have arrived, and their fallen has been "
 "reanimated! We don't stand a chance against their numbers!"
