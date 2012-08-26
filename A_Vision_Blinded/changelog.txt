@@ -22,3 +22,10 @@ version 0.6.1
 	"13_For_Auld_Lang_Syne"
 Resized the map, so the player can reach the Wose a bit faster.
 Changed the AI, so the Wose leader gets a bit protection.
+
+
+version 0.6.2
+-------------
+
+Added information about the carry-over system to the objectives
+	(thanks Taptap for pointing me)
