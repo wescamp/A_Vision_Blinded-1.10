@@ -29,3 +29,19 @@ version 0.6.2
 
 Added information about the carry-over system to the objectives
 	(thanks Taptap for pointing me)
+
+
+
+version 0.6.3
+-------------
+
+Fixed a game crashing bug in version 0.6.2
+	(thanks Taptap for report)
+
+
+version 0.6.4
+-------------
+
+scenario 5: Fixed a gold carryover bug in the talk only scenario
+scenario 6: Added a few more village
+scenario 6: Added some more gold to the enemy sides, because the sceanario was much to easy
