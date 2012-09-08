@@ -45,3 +45,14 @@ version 0.6.4
 scenario 5: Fixed a gold carryover bug in the talk only scenario
 scenario 6: Added a few more village
 scenario 6: Added some more gold to the enemy sides, because the sceanario was much to easy
+
+
+version 0.6.5
+-------------
+
+scenario 6: Reballanced the scenario
+scenario 6: The bats now don't longer attack the dwarvish Leaders
+scenario 6: The bats now have more ways out of their part of the cave
+scenario 6: Raised the turn limit 
+scenario 6: Added some dwarvish guards to the first castle
+
