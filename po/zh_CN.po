@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_Vision_Blinded 1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 20:58-0400\n"
+"POT-Creation-Date: 2012-09-08 19:14-0400\n"
 "PO-Revision-Date: 2012-05-11 22:47-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -104,7 +104,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:36
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:35
 #: A_Vision_Blinded/scenarios/05_Narrow_Encounter.cfg:29
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:132
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:271
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:36
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:35
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:35
@@ -180,8 +180,8 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:644
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:150
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:139
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:410
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:459
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:741
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:849
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:159
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:247
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:147
@@ -204,8 +204,8 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:648
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:154
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:143
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:414
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:463
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:745
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:853
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:163
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:251
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:151
@@ -228,8 +228,8 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:656
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:162
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:151
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:426
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:475
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:757
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:865
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:175
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:263
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:167
@@ -315,7 +315,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:700
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:338
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:589
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1180
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1668
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:532
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:666
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1325
@@ -333,7 +333,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:726
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:351
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:602
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1193
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1681
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:545
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:679
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1338
@@ -351,7 +351,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:730
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:355
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:606
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1197
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1685
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:549
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:683
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1342
@@ -462,8 +462,8 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:652
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:158
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:147
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:418
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:467
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:749
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:857
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:167
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:255
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:155
@@ -585,8 +585,7 @@ msgstr ""
 #: A_Vision_Blinded/scenarios/02_Following_the_Trail.cfg:713
 #: A_Vision_Blinded/scenarios/03_Surprise_Attack.cfg:368
 #: A_Vision_Blinded/scenarios/04_New_Mutiny.cfg:619
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1210
-#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:562
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1698
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:696
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1355
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1018
@@ -925,7 +924,7 @@ msgstr ""
 #. [unit]: type=Troll Hero, id=Kruurg
 #: A_Vision_Blinded/scenarios/05_Narrow_Encounter.cfg:46
 #: A_Vision_Blinded/scenarios/05_Narrow_Encounter.cfg:57
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:357
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:567
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:252
 msgid "Kruurg"
 msgstr ""
@@ -1005,7 +1004,8 @@ msgid "Troll whelps are now at your disposal!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:95
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:86
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:158
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:352
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:681
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:754
@@ -1016,36 +1016,74 @@ msgid "The wall collapses before the might of the troll."
 msgstr ""
 
 #. [scenario]: id=06_Emerging_from_the_Depths
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:106
+#. [scenario]: id=06_Emerging_from_the_Depths, (type=Elvish Fighter,Elvish Archer,Elvish Marksman,Elvish Sharpshooter,Elvish Ranger,Elvish Avenger,Elvish Hero,Elvish Champion) (items/bow.png)
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:245
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:4
 msgid "Emerging from the Depths"
 msgstr ""
 
 #. [side]: type=Elvish Sorceress, id=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:122
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:261
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:20
 msgid "Qouscelia"
 msgstr ""
 
+#. [message]: speaker=Alvelyn
 #. [side]: type=Dwarvish Dragonguard, type=Dwarvish Thunderguard, id=Dwarfleader_2
 #. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Dwarfleader_1
 #. [side]: type=Dwarvish Runemaster, id=Dwarfleader_3
 #. [side]: type=Dwarvish Sentinel, type=Dwarvish Stalwart, id=Dwarfleader_4, id=Agtrossil
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:158
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:180
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:199
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:222
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:297
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:325
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:350
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:378
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:697
 msgid "Dwarves"
 msgstr ""
 
 #. [side]: type=Blood Bat, id=Fierce Bat
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:240
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:402
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:203
 msgid "Fierce Bat"
 msgstr ""
 
+#. [scenario]: id=06_Emerging_from_the_Depths, (type=Elvish Fighter,Elvish Archer,Elvish Marksman,Elvish Sharpshooter,Elvish Ranger,Elvish Avenger,Elvish Hero,Elvish Champion) (items/bow.png)
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:511
+msgid "$unit.name finds a strange old bow. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=06_Emerging_from_the_Depths, (type=Elvish Fighter,Elvish Archer,Elvish Marksman,Elvish Sharpshooter,Elvish Ranger,Elvish Avenger,Elvish Hero,Elvish Champion) (items/bow.png)
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:512
+msgid "poisoned_bow^Take it"
+msgstr ""
+
+#. [scenario]: id=06_Emerging_from_the_Depths, (type=Elvish Fighter,Elvish Archer,Elvish Marksman,Elvish Sharpshooter,Elvish Ranger,Elvish Avenger,Elvish Hero,Elvish Champion) (items/bow.png)
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:513
+msgid "poisoned_bow^Leave it"
+msgstr ""
+
+#. [scenario]: id=06_Emerging_from_the_Depths, (type=Elvish Fighter,Elvish Archer,Elvish Marksman,Elvish Sharpshooter,Elvish Ranger,Elvish Avenger,Elvish Hero,Elvish Champion) (items/bow.png)
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:514
+msgid "$unit.name finds strange old bow. But only a archer can take it!"
+msgstr ""
+
+#. [object]
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:516
+msgid "Poisoned Bow"
+msgstr ""
+
+#. [object]
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:519
+msgid "This bow allows an archer to shoot poisoned arrows at his enemies!"
+msgstr ""
+
+#. [effect]: type=pierce
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:523
+msgid "poisonous bow"
+msgstr ""
+
 #. [part]
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:329
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:539
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:226
 msgid ""
 "The elves entered into the damp, dark, narrow passage with the trolls "
@@ -1054,7 +1092,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:332
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:542
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:229
 msgid ""
 "The path came to an abrupt halt. The initial despair quickly subsided at the "
@@ -1064,7 +1102,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:335
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:545
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:232
 msgid ""
 "Soon however, the elves once again found their path blocked, but not only by "
@@ -1072,13 +1110,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:374
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:655
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:334
 msgid "A dead end! What will become of us now?!"
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:378
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:659
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:338
 msgid ""
 "Odd that the dwarves would build a teleportation rune to a dead end... "
@@ -1088,20 +1126,40 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:390
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:671
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:361
 msgid "Looks like this leads into a wide cave path oft used..."
 msgstr ""
 
+#. [message]: speaker=Gu1
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:704
+msgid "We're invaded"
+msgstr ""
+
+#. [message]: speaker=Gu2
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:708
+msgid "<b>Alarm!</b>"
+msgstr ""
+
+#. [message]: speaker=Gu3
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:716
+msgid "I warn our brothers ..."
+msgstr ""
+
 #. [objective]: condition=win
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:406
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:733
+msgid "Kill the guards"
+msgstr ""
+
+#. [objective]: condition=win
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:737
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:367
 msgid "Investigate the caverns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:422
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:471
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:753
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:861
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:171
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:259
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:159
@@ -1118,29 +1176,44 @@ msgid "Death of Kruurg"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:445
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:776
+msgid "A giant spider! I did not meant that there is such a thing truly!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:780
+msgid "It is realy enormous. And looks more dangerous than the bats..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:792
+msgid "Uh, a spider! $unit.name like spider. Hm yummy!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:835
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:402
 msgid "Hmm, there's a plaque here: 'North to Main Cavern, South to Exit'."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:449
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:839
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:406
 msgid "Ha, seems we're not far. Now let's find that exit."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:455
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:845
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:412
 msgid "Move Quoscelia to the Southern Exit"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:835
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:905
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:939
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:983
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1033
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1225
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1295
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1329
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1373
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1423
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:667
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:740
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:777
@@ -1150,25 +1223,25 @@ msgid "The wall here does not look strong."
 msgstr ""
 
 #. [unit]: type=Red Mage, id=Aethelred
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:849
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1239
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:691
 msgid "Aethelred"
 msgstr ""
 
 #. [message]: speaker=Aethelred
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:865
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1255
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:702
 msgid "Who..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:869
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1259
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:706
 msgid "The real question is, who are YOU, human?"
 msgstr ""
 
 #. [message]: speaker=Aethelred
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:873
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1263
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:710
 msgid ""
 "I am Aethelred, a mage, and this is my hermitage. Two days ago, I think "
@@ -1178,7 +1251,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:877
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1267
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:714
 msgid ""
 "Alright, human, you may come with us. (He looks powerful enough to be used "
@@ -1186,26 +1259,25 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:881
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1271
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:718
 msgid "Troll, can you break down the western exit this human speaks of?"
 msgstr ""
 
-#. [message]: speaker=Kruurg
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:885
-#: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:722
-msgid "Wall too strong. Kruurg no break."
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1275
+msgid "Wall too strong. $unit.name no break."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:889
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1279
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:726
 msgid "Sigh... looks like the southern exit is the only way."
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:919
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:953
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1309
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1343
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:763
 msgid ""
 "This leads to a an abandoned path leading straight south. It should take us "
@@ -1213,42 +1285,44 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:967
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1357
 msgid "Anybody in there?"
 msgstr ""
 
 #. [message]: speaker=Diludyren
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1016
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1406
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:800
 msgid "Bah! A nest of filthy bats!"
 msgstr ""
 
 #. [unit]: type=Thug, id=Nath
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1047
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1437
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:838
 msgid "Nath"
 msgstr ""
 
 #. [unit]: type=Thug, id=Tramsley
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1059
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1449
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:850
 msgid "Tramsley"
 msgstr ""
 
+#. [unit]: type=Ruffian, id=Fagin
 #. [unit]: type=Thug, id=Fagin
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1071
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1461
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:862
 msgid "Fagin"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1086
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1476
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:873
 msgid "Identify yourselves, humans!"
 msgstr ""
 
 #. [message]: speaker=Nath
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1090
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1480
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:877
 msgid ""
 "I am Nath, and these two are my friends. Our little village was raided and "
@@ -1257,7 +1331,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1094
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1484
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:881
 msgid ""
 "You may join us against the dwarves. (these puny humans seem useful as "
@@ -1265,43 +1339,62 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Alvelyn
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1098
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1488
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:885
 msgid "(secretly) Seems there are human settlements nearby here..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1102
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1492
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:889
 msgid "(acknowledges Alvelyn)"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1106
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1496
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:893
 msgid "Do you humans know where the exit to the cave is?"
 msgstr ""
 
 #. [message]: speaker=Nath
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1110
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1500
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:897
 msgid "Yes, it's not far, though the path winds a bit to get to it."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1137
-#: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:954
-msgid "You retrieve 200 pieces of gold!"
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1546
+msgid "You retrieve 79 pieces of gold!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1567
+msgid "You retrieve 129 pieces of gold!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1584
+msgid "You retrieve 179 pieces of gold!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1616
+msgid "Gold!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1624
+msgid "You retrieve 147 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1161
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1648
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:973
 msgid "Finally, sunlight again. Now let's get out and get our bearings."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1223
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1711
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:575
 #: A_Vision_Blinded/scenarios/08_Disobedience.cfg:709
 #: A_Vision_Blinded/scenarios/09_Stranger_in_a_Strange_Land.cfg:1368
@@ -1315,7 +1408,7 @@ msgid "Urk..."
 msgstr ""
 
 #. [message]: speaker=Quoscelia
-#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1234
+#: A_Vision_Blinded/scenarios/06_Emerging_from_the_Depths.cfg:1722
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:1042
 msgid "By now the dwarves have surely called in an army! We are doomed!"
 msgstr ""
@@ -1451,6 +1544,11 @@ msgstr ""
 #. [message]: speaker=Diludyren
 #: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:516
 msgid "Let's."
+msgstr ""
+
+#. [message]: speaker=unit
+#: A_Vision_Blinded/scenarios/07_On_the_Marshes.cfg:562
+msgid "I last breath, but with honour. Avenge me!"
 msgstr ""
 
 #. [message]: speaker=Quoscelia
@@ -3358,6 +3456,16 @@ msgstr ""
 #. [objective]: condition=win
 #: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:286
 msgid "Break down the cave wall"
+msgstr ""
+
+#. [message]: speaker=Kruurg
+#: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:722
+msgid "Wall too strong. Kruurg no break."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: A_Vision_Blinded/scenarios/save_scenario/06_Emerging_from_the_Depths.cfg:954
+msgid "You retrieve 200 pieces of gold!"
 msgstr ""
 
 #. [unit_type]: id=Elvish Initiate, race=elf
