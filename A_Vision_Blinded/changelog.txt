@@ -56,3 +56,10 @@ scenario 6: The bats now have more ways out of their part of the cave
 scenario 6: Raised the turn limit 
 scenario 6: Added some dwarvish guards to the first castle
 
+
+version 0.6.6
+-------------
+
+scenario 6: Fixed a wrong coordinate that prevents the wall from opening at the end of the bypass
+scenario 6: Reduced the HP, XP and attacks of the Giant Spider
+
