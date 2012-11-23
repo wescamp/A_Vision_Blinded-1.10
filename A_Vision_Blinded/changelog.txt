@@ -63,3 +63,24 @@ version 0.6.6
 scenario 6: Fixed a wrong coordinate that prevents the wall from opening at the end of the bypass
 scenario 6: Reduced the HP, XP and attacks of the Giant Spider
 
+
+version 0.6.7
+-------------
+scenerio 6: Slightly raised turn limits
+scenerio 10: Two enemy sides' gold were reduced by 25. Javerlineers were erased from recruit lists, and replaced by Pikeman.
+scenario 11: Slightly reduced difficulty on hard level by decreasing the enemy income and adding more bonus of assasination. However, this change makes the next scenerio easier. 
+scenerio 13: The wosefolks get an initial income of +2.
+scenerio 14: Your allies no longer get many lv2s on their recruit list, and their aggression is slightly weakened. All four elf sides have an initial income of +2.
+
+version 0.6.8
+-------------
+scenerio 1: You get an initial income of +2. On easy level, the starting gold is nerfed to 150. 
+scenerio 2: A naming bug is killed.
+scenerio 9: After erasing all Javes from all recruiting list, Javes replaced all Pikes as defenders. Besides, on hard level, many Pikeman guards are replaced by Halberdiers. 
+scenerio 10: All Javerlineers are removed from enemy recruiting list. What's more, after each assasination, other enemy leaders no longer get reinforcements.
+scenerio 11: The saurian and naga enemies are slightly nerfed, make the breathing scenerio easier.
+
+Naga Warlock's range damage is reduced by 1, price reduced by 2. 
+Nage Mage's price is raised by 1.
+
+ 
