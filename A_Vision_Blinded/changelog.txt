@@ -1,55 +1,50 @@
 Changes made after LemonTea abandoned this campaign
+===================================================
+===================================================
 
 
-version 0.5.2
--------------
-
+version 0.5.2 (changes Adamant14)
+---------------------------------
 Made it so that every unit has its own ID. So that after a saveload every unit is really on the map. Bug reported by taptap.
 
 
-version 0.6.0
--------------
-
+version 0.6.0 (changes Adamant14)
+---------------------------------
 	"06_Emerging_from_the_Depths":
 Changed the map, made it so that the player can cross the tunnels in 40 turns instead of 80 like it was before.
 Animated the wall-breakthrough's.
 Added Dwarvish Scouts and Dwarvish Guardsman to the enemies recruitlist.
 
 
-version 0.6.1
--------------
-
+version 0.6.1 (changes Adamant14)
+---------------------------------
 	"13_For_Auld_Lang_Syne"
 Resized the map, so the player can reach the Wose a bit faster.
 Changed the AI, so the Wose leader gets a bit protection.
 
 
-version 0.6.2
--------------
-
+version 0.6.2 (changes Adamant14)
+---------------------------------
 Added information about the carry-over system to the objectives
-	(thanks Taptap for pointing me)
+ (thanks Taptap for pointing me)
 
 
 
-version 0.6.3
--------------
-
+version 0.6.3 (changes Adamant14)
+---------------------------------
 Fixed a game crashing bug in version 0.6.2
-	(thanks Taptap for report)
+ (thanks Taptap for report)
 
 
-version 0.6.4
--------------
-
+version 0.6.4 (changes Adamant14)
+---------------------------------
 scenario 5: Fixed a gold carryover bug in the talk only scenario
 scenario 6: Added a few more village
 scenario 6: Added some more gold to the enemy sides, because the sceanario was much to easy
 
 
-version 0.6.5
--------------
-
+version 0.6.5 (changes Adamant14)
+---------------------------------
 scenario 6: Reballanced the scenario
 scenario 6: The bats now don't longer attack the dwarvish Leaders
 scenario 6: The bats now have more ways out of their part of the cave
@@ -57,23 +52,22 @@ scenario 6: Raised the turn limit
 scenario 6: Added some dwarvish guards to the first castle
 
 
-version 0.6.6
--------------
-
+version 0.6.6 (changes Adamant14)
+---------------------------------
 scenario 6: Fixed a wrong coordinate that prevents the wall from opening at the end of the bypass
 scenario 6: Reduced the HP, XP and attacks of the Giant Spider
 
 
-version 0.6.7
--------------
+version 0.6.7 (changes AxalaraFlame)
+------------------------------------
 scenerio 6: Slightly raised turn limits
 scenerio 10: Two enemy sides' gold were reduced by 25. Javerlineers were erased from recruit lists, and replaced by Pikeman.
 scenario 11: Slightly reduced difficulty on hard level by decreasing the enemy income and adding more bonus of assasination. However, this change makes the next scenerio easier. 
 scenerio 13: The wosefolks get an initial income of +2.
 scenerio 14: Your allies no longer get many lv2s on their recruit list, and their aggression is slightly weakened. All four elf sides have an initial income of +2.
 
-version 0.6.8
--------------
+version 0.6.8 (changes AxalaraFlame)
+------------------------------------
 scenerio 1: You get an initial income of +2. On easy level, the starting gold is nerfed to 150. 
 scenerio 2: A naming bug is killed.
 scenerio 9: After erasing all Javes from all recruiting list, Javes replaced all Pikes as defenders. Besides, on hard level, many Pikeman guards are replaced by Halberdiers. 
@@ -82,5 +76,19 @@ scenerio 11: The saurian and naga enemies are slightly nerfed, make the breathin
 
 Naga Warlock's range damage is reduced by 1, price reduced by 2. 
 Nage Mage's price is raised by 1.
+
+
+version 0.6.9 (changes Adamant14)
+---------------------------------
+fixed missing id's
+ (reported in the forums by Woodruff)
+
+version 0.6.10 (changes Adamant14)
+---------------------------------
+	"13_For_Auld_Lang_Syne"
+Added 'passive_leader_shares_keep=yes'
+To make the player able to recruit/recall in the Wose's keep
+
+
 
  
