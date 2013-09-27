@@ -60,7 +60,7 @@ scenario 6: Reduced the HP, XP and attacks of the Giant Spider
 
 version 0.6.7 (changes AxalaraFlame)
 ------------------------------------
-scenerio 6: Slightly raised turn limits
+scenerio 6:  Slightly raised turn limits
 scenerio 10: Two enemy sides' gold were reduced by 25. Javerlineers were erased from recruit lists, and replaced by Pikeman.
 scenario 11: Slightly reduced difficulty on hard level by decreasing the enemy income and adding more bonus of assasination. However, this change makes the next scenerio easier. 
 scenerio 13: The wosefolks get an initial income of +2.
@@ -68,9 +68,9 @@ scenerio 14: Your allies no longer get many lv2s on their recruit list, and thei
 
 version 0.6.8 (changes AxalaraFlame)
 ------------------------------------
-scenerio 1: You get an initial income of +2. On easy level, the starting gold is nerfed to 150. 
-scenerio 2: A naming bug is killed.
-scenerio 9: After erasing all Javes from all recruiting list, Javes replaced all Pikes as defenders. Besides, on hard level, many Pikeman guards are replaced by Halberdiers. 
+scenerio 1:  You get an initial income of +2. On easy level, the starting gold is nerfed to 150. 
+scenerio 2:  A naming bug is killed.
+scenerio 9:  After erasing all Javes from all recruiting list, Javes replaced all Pikes as defenders. Besides, on hard level, many Pikeman guards are replaced by Halberdiers. 
 scenerio 10: All Javerlineers are removed from enemy recruiting list. What's more, after each assasination, other enemy leaders no longer get reinforcements.
 scenerio 11: The saurian and naga enemies are slightly nerfed, make the breathing scenerio easier.
 
@@ -83,11 +83,107 @@ version 0.6.9 (changes Adamant14)
 fixed missing id's
  (reported in the forums by Woodruff)
 
+
 version 0.6.10 (changes Adamant14)
 ---------------------------------
 	"13_For_Auld_Lang_Syne"
 Added 'passive_leader_shares_keep=yes'
 To make the player able to recruit/recall in the Wose's keep
+
+
+version 0.6.11 (changes Adamant14)
+---------------------------------
+	"14_Natures_Fury"
+Added two more songs to the playlist (nunc_dimittis.ogg, transience)
+  (suggested by Chief_Chasso)
+
+Added a note for the player that this is the last scenario
+
+
+version 0.6.12 (changes Adamant14)
+---------------------------------
+	"_main.cfg"
+Changed the path to the textdomain to make the campaign translatable
+  (suggested by dalan94)
+
+ 	"13_For_Auld_Lang_Syne"
+Removed the Fog of War (this is maybe a temporary change)
+
+
+version 0.6.12 (changes Adamant14)
+---------------------------------
+
+Added folder 'translations'
+
+
+
+   ###########################################################################
+##################################################################################
+
+   I decided that the time has come to name the current version 'version 1.0.0'
+
+##################################################################################
+   ############################################################################
+
+
+
+version 1.0.0 (changes Adamant14)
+---------------------------------
+
+Ported the campaign to 1.11 (upload to the 1.11. server 8. Sept 2013)
+Added folder utils/deaths,and moved all hero death's in the folder utils/death
+Removed misplaced [ai] key's from side 1's [side] tag
+Fixed the wrong path to the campaign image
+Revised some of the maps (visible only using BfW version 1,11)
+Quoscelia now keeps her portrait (Elvish Sorceress) for the whole campaign, even if she levels up
+Alvelyn now keeps her portrait (Elvish Druid) for the whole campaign, even if she levels up
+
+	id="03_Surprise_Attack"
+Added a loyal overlay to the loyal Elvish Rider
+
+	id="06_Emerging_from_the_Depths"
+Added a loyal overlay to the each prisoner
+Added a note to inform the player about Kruurgs abillity to break through weak walls
+Added some code to make sure the objectives will get updated
+
+
+version 1.0.1 (changes Adamant14)
+---------------------------------
+
+	id="04_New_Mutiny"
+Fixed a broken message.
+ (thanks to Gooby for the report)
+
+	id="06_Emerging_from_the_Depths"
+Added some code to wake the last dwarv leader right in time if the player uses the bypass
+
+	id="08_Disobedience"
+Replaced the map by Chief_Chasso's revised map
+
+	id="11_And_the_River_Ran_Red"
+Tweaked the difficulty a bit.
+Nerved the income of all Clan leaders on NORMAL and HARD a little bit.
+Reduced the help gold, the surviving Clan Lords get when a Clan Lord falls.
+Splitted the help gold on difficulty.
+
+
+version 1.0.2 (changes Adamant14) 
+---------------------------------
+
+	id="06_Emerging_from_the_Depths"
+Added an icon for the unit that gains the Poisoned Bow
+
+	id="14_Natures_Fury"
+Fixed a broken path to the scenario music
+
+	id="13_For_Auld_Lang_Syne"
+Fixed a messed up message in Diludyren die event
+ (thanks again to Gooby for the report)
+
+
+
+
+
 
 
 

@@ -1,0 +1,4 @@
+This folder contains:
+
+The original 08_Disobedience.map by Limabean
+Replaced by ChiefChaso's map (AVB version 1.0.1)
