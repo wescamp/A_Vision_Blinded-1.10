@@ -50,6 +50,7 @@ scenario 6: The bats now don't longer attack the dwarvish Leaders
 scenario 6: The bats now have more ways out of their part of the cave
 scenario 6: Raised the turn limit 
 scenario 6: Added some dwarvish guards to the first castle
+scenario 14: Aded a scrol_to the wardens of nature
 
 
 version 0.6.6 (changes Adamant14)
@@ -179,6 +180,42 @@ Fixed a broken path to the scenario music
 	id="13_For_Auld_Lang_Syne"
 Fixed a messed up message in Diludyren die event
  (thanks again to Gooby for the report)
+
+
+version 1.0.2 (changes Adamant14)
+---------------------------------
+
+Added to all team_names 'enemy' or 'allied' to make the status table clearer
+
+Fixed the depreciated [protect_unit] tag
+
+
+	id="06_Emerging_from_the_Depths"
+Raised the start-gold of side=2 +10 for each difficulty
+Raised the income of side=3 (dwarves) +2/turn for each difficulty
+Added income to the Cave Bats
+The unit that picks up the Poisoned Bow becomes loyal
+Raised the income of side=3 (dwarves) +2/turn for each difficulty
+Raised the income of side=3 (dwarves) +2/turn for each difficulty
+
+
+	id="08_Disobedience"
+Added income to the Naga side (there was o income before)
+
+Map changes made by Chief_Chasso (id="08_Disobedience):
+1. Removed the forest terrain tiles along the edge of the hills south of the starting keep.
+2. Added more hill terrain at the first bend of the path around coordinate 24,7.
+3. Added more hill/pine forest terrain surrounding the Player 2 keep. I was intending to make it harder to attack the player 2 leader from behind. If the player puts units along the pine forest surrounding the player 2 		keep, it might prompt an ambush.
+4. Added more hill terrain narrowing the path around coordinate 20,14.
+5. Opened up the area directly north of the player 3 keep. I pulled the two villages (15,21 and 9,24) away from the hill terrain. I figured this could provide a much needed healing area.
+6. Added more hill terrain surrounding the player 3 keep. Again, attempting to make it more difficult to back door the leader (or attack the leader from behind).
+7. Added more hill terrain near 24,31 creating another choke-hold along the path.
+8. Added a few more hill terrain surrounding the player 4 keep.
+9. Pulled villages 26,33 and 21,40 way from the hill edges, providing another safe healing point.
+10. Changed all the dry dirt road terrain (Rd) to regular dirt road (Re) along the path. This is just for aesthetic reasons. The dry dirt path didn't seem to fit with the surrounding environment. Also I changed some of the grass tiles from dry grass to the regular grass, attempting to create a more lush environment, which I think is more fitting.
+
+    id="10_For_the_Checkmate"
+Splitted 'die events' in 'last breath' and 'die' events, so thatn the killed units are visible while they speak their last words
 
 
 
